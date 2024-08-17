@@ -6,7 +6,7 @@ import imblearn
 import streamlit as st
 from PIL import Image
 
-pip install streamlit
+
 
 st.title("Credit Card Fraud Detection Model")
 
